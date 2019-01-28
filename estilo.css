@@ -1,0 +1,24 @@
+.titulo {
+	color: black;
+	font: bold;
+}
+body{
+	font-family: verdana;
+	background-color: #CEF6F5;
+
+}
+#t1, #t2,#t3{
+	text-align: center;
+	column-width: 50%;
+	padding: 2px;
+	vertical-align: middle;
+	border-bottom: 4px solid black;
+}
+td{
+	text-align: center;
+}
+#l1{
+	text-indent: 18%;
+	text-align: left;
+}
+
