@@ -1,6 +1,8 @@
 .titulo {
 	color: black;
 	font: bold;
+	background-color: #5564eb;
+	padding: 10px;
 }
 body{
 	font-family: verdana;
